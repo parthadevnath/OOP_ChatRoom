@@ -1,6 +1,6 @@
-# OOP Python Chatroom
+# OOP Python ChatRoom
 
-A beginner-friendly chatroom project in Python demonstrating Object-Oriented Programming (OOP). Users can join a chatroom, send messages, and save chat history.
+A beginner-friendly chatRoom project in Python demonstrating Object-Oriented Programming (OOP). Users can join a chatroom, send messages, and save chat history.
 
 ## Features
 
